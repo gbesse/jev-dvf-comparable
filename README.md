@@ -118,3 +118,7 @@ npm run demo
 La CI exécute ces vérifications sous Node.js 22 et 24.
 
 Projet indépendant, sans affiliation avec TypeSafe AI, data.gouv.fr ni l’administration française. Consultez la [documentation de l’API Jev](https://docs.typesafe.ai/api) et les [limites du modèle](https://docs.typesafe.ai/model-jaggedness/jev-1.13).
+
+## Contrôle d’adoption · Adoption check · Comprobación de adopción
+
+[Français : essayer un cas concret](examples/adoption-check.md) · [English: try a concrete case](examples/adoption-check.md) · [Español: pruebe un caso concreto](examples/adoption-check.md).
