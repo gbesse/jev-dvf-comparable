@@ -40,3 +40,15 @@ FR : adaptez une copie de la fixture locale à cette situation, puis vérifiez l
 EN: adapt a copy of the local fixture to this situation, then check the behavior described above. Values are illustrative, not measured Jev output.
 
 ES: adapte una copia de la fixture local a esta situación y compruebe el comportamiento descrito arriba. Los valores son ilustrativos, no resultados Jev medidos.
+
+## Second cas · Second case · Segundo caso
+
+```text
+sale_year_A=2020; sale_year_B=2026; distance_m=100
+```
+
+**FR :** La proximité géographique ne suffit pas si les mutations sont éloignées dans le temps. Documentez l’écart plutôt que d’automatiser l’estimation.
+
+**EN:** Geographic proximity is insufficient when transactions are far apart in time. Document the gap instead of automating the valuation.
+
+**ES:** La proximidad geográfica no basta si las transacciones están muy separadas en el tiempo. Documente la diferencia en lugar de automatizar la valoración.
